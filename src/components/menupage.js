@@ -46,7 +46,7 @@ const initialDishes = {
     },
     {
       "id": "5",
-      "name": "Paneer Pizza",
+      "name": "Paneer Pizzaa",
       "category": "Food",
       "sub_category": "Pizza",
       "available_quantity": 10,
