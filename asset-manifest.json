@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/recipecodeee/static/css/main.f855e6bc.css",
-    "main.js": "/recipecodeee/static/js/main.92dea2cc.js",
+    "main.js": "/recipecodeee/static/js/main.6d4fa2f8.js",
     "static/js/453.64512fd7.chunk.js": "/recipecodeee/static/js/453.64512fd7.chunk.js",
     "index.html": "/recipecodeee/index.html",
     "main.f855e6bc.css.map": "/recipecodeee/static/css/main.f855e6bc.css.map",
-    "main.92dea2cc.js.map": "/recipecodeee/static/js/main.92dea2cc.js.map",
+    "main.6d4fa2f8.js.map": "/recipecodeee/static/js/main.6d4fa2f8.js.map",
     "453.64512fd7.chunk.js.map": "/recipecodeee/static/js/453.64512fd7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.92dea2cc.js"
+    "static/js/main.6d4fa2f8.js"
   ]
 }
